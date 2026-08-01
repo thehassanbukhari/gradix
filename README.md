@@ -1,9 +1,7 @@
 # Gradix
-
 An academic companion for university students. Track your subjects, grades, attendance, and study tasks, with tools to calculate exactly where you stand and what you need next.
 
 ## Features
-
 - Subjects built from Parts and Components, so your grade breakdown matches how your actual courses are structured
 - Assessment dashboard with upcoming deadlines and quick add
 - Progress view with visual breakdowns of subject and semester performance
@@ -17,18 +15,17 @@ An academic companion for university students. Track your subjects, grades, atte
 - 100% local, no internet, no accounts, no ads
 
 ## Download
+[Download Gradix v2.4.2 APK](https://github.com/TheHassanBukhari/gradix/releases/download/v2.4.2/Gradix.v2.4.2.apk)
 
-Coming Soon
+## Read More
+[Feature overview and screenshots](https://hassanbukhari.is-a.dev/blog/generic/gradix)
 
 ## Built With
-
 Kotlin, Android Studio
 
 ## Developer
-
 Syed Hassan Ali Bukhari
 BS Computer Science, COMSATS Islamabad
 
 ## Legal
-
 [Privacy Policy](https://thehassanbukhari.github.io/gradix/privacy-policy.html)
