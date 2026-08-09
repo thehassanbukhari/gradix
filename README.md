@@ -15,7 +15,7 @@ An academic companion for university students. Track your subjects, grades, atte
 - 100% local, no internet, no accounts, no ads
 
 ## Download
-[Download Gradix v2.4.2 APK](https://github.com/TheHassanBukhari/gradix/releases/download/v2.4.2/Gradix.v2.4.2.apk)
+[Download Gradix v2.4.3 APK](https://github.com/TheHassanBukhari/gradix/releases/download/v2.4.3/Gradix.2.4.3.apk)
 
 ## Read More
 [Feature overview and screenshots](https://hassanbukhari.is-a.dev/blog/generic/gradix)
