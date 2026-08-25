@@ -27,7 +27,7 @@ Kotlin, Android Studio
 
 ## Developer
 [Syed Hassan Ali Bukhari](https://hassanbukhari.is-a.dev/)
-BS Computer Science, COMSATS Islamabad
+<br>BS Computer Science, COMSATS Islamabad
 
 ## Legal
 [Privacy Policy](https://thehassanbukhari.github.io/gradix/privacy-policy.html)
