@@ -1,7 +1,8 @@
 # Gradix
 An academic companion for university students. Track your subjects, grades, attendance, and study tasks, with tools to calculate exactly where you stand and what you need next.
 
-**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/)
+**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/) <br>
+**LinkedIn:** [Syed Hassan Ali Bukhari](https://www.linkedin.com/in/syedhassanalibukhari/)
 
 ## Features
 - Subjects built from Parts and Components, so your grade breakdown matches how your actual courses are structured
@@ -27,7 +28,6 @@ Kotlin, Android Studio
 
 ## Developer
 [Syed Hassan Ali Bukhari](https://hassanbukhari.is-a.dev/)
-<br>BS Computer Science, COMSATS Islamabad
 
 ## Legal
 [Privacy Policy](https://thehassanbukhari.github.io/gradix/privacy-policy.html)
