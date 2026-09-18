@@ -25,7 +25,7 @@ Built this because I needed a way to actually track where I stood in my own seme
 
 ## Download
 
-[Download Gradix v2.6.1 APK](https://github.com/thehassanbukhari/gradix/releases/download/v2.6.1/Gradix.v2.6.1.apk) <br>
+[Download Gradix v3.0.0 APK](https://github.com/thehassanbukhari/gradix/releases/download/v3.0.0/Gradix.v3.0.0.apk) <br>
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.hassanbukhari.gradix)
 
 ## Read More
